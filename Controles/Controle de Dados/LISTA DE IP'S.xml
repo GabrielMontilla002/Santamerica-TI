@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Advanced_IP_scanner>
+	<row status="alive" name="NPI23358F" os_version="Unix" ip="192.168.171.24" manufacturer="Hewlett Packard" mac="6C:C2:17:23:35:8F" comments="Rescisao-Impressora" has_http="1" is_http8080="0" http_title="HP LaserJet 400 MFP M425dn 192.168.171.24 (gSOAP 2.7)" http_title_full="HP LaserJet 400 MFP M425dn 192.168.171.24 (gSOAP 2.7)" has_https="0" has_ftp="1" ftp_version="oftpd" has_rdp="0" sIsDNSScan="0" alias="IMP01" expanded="0">
+	</row>
+	<row status="alive" name="NPI6A426B" os_version="Unix" ip="192.168.171.27" manufacturer="Hewlett Packard" mac="34:64:A9:6A:42:6B" comments="Rh - Impressora" has_http="1" is_http8080="0" http_title="HP LaserJet 400 MFP M425dn 192.168.171.27 (gSOAP 2.7)" http_title_full="HP LaserJet 400 MFP M425dn 192.168.171.27 (gSOAP 2.7)" has_https="0" has_ftp="1" ftp_version="oftpd" has_rdp="0" sIsDNSScan="0" alias="IMP03" expanded="0">
+	</row>
+	<row status="alive" name="NPI234A51" os_version="Unix" ip="192.168.171.6" manufacturer="Hewlett Packard" mac="6C:C2:17:23:4A:51" comments="Contrato - Impressora" has_http="1" is_http8080="0" http_title="HP LaserJet 400 MFP M425dn 192.168.171.6 (gSOAP 2.7)" http_title_full="HP LaserJet 400 MFP M425dn 192.168.171.6 (gSOAP 2.7)" has_https="0" has_ftp="1" ftp_version="oftpd" has_rdp="0" sIsDNSScan="0" alias="IMP05" expanded="0">
+	</row>
+	<row status="alive" name="M000277" ip="192.168.171.67" manufacturer="EliteGroup Computer Systems Co., LTD" mac="1C:69:7A:4B:F5:F2" comments="Reparos - Alex" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC36" expanded="0">
+	</row>
+	<row status="alive" name="NPI23EA40" os_version="Unix" ip="192.168.171.18" manufacturer="Hewlett Packard" mac="6C:C2:17:23:EA:40" comments="Financeiro - Impressora" has_http="1" is_http8080="0" http_title="HP LaserJet 400 MFP M425dn 192.168.171.18 (gSOAP 2.7)" http_title_full="HP LaserJet 400 MFP M425dn 192.168.171.18 (gSOAP 2.7)" has_https="0" has_ftp="1" ftp_version="oftpd" has_rdp="0" sIsDNSScan="0" alias="IMP02" expanded="0">
+	</row>
+	<row status="alive" name="NPI003305" os_version="Unix" ip="192.168.171.28" manufacturer="Hewlett Packard" mac="38:63:BB:00:33:05" comments="Comercial - Impressora" has_http="1" is_http8080="0" http_title="HP LaserJet 400 MFP M425dn 192.168.171.28 (gSOAP 2.7)" http_title_full="HP LaserJet 400 MFP M425dn 192.168.171.28 (gSOAP 2.7)" has_https="0" has_ftp="1" ftp_version="oftpd" has_rdp="0" sIsDNSScan="0" alias="IMP09" expanded="0">
+	</row>
+	<row status="alive" name="M071" ip="192.168.171.71" manufacturer="Dell Inc." mac="20:04:0F:FF:76:87" comments="Comercial Locação - Vanderlei" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC40" expanded="0">
+	</row>
+	<row status="alive" name="M00479" ip="192.168.171.90" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="B4:2E:99:F2:11:8B" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M00251" ip="192.168.171.49" manufacturer="Dell Inc." mac="20:04:0F:FF:76:3B" comments="Adm Vendas - Fabio" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC27" expanded="0">
+		<share name="Users"/>
+		<printer name="Colorida"/>
+		<printer name="Principal"/>
+	</row>
+	<row status="alive" name="M00351" ip="192.168.171.88" manufacturer="Hon Hai Precision Ind. Co.,Ltd." mac="84:4B:F5:C1:DE:51" comments="Comercial vendas - Rodrigo" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC58" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.9" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="m00033.santamerica.local" ip="192.168.171.75" manufacturer="SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD." mac="38:6B:1C:DC:7B:61" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.82" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.45" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.55" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.51" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.4" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.91" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.16" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="m00430.santamerica.local" ip="192.168.171.80" manufacturer="Hon Hai Precision Ind. Co.,Ltd." mac="FC:01:7C:B2:C5:B5" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="M00370" ip="192.168.171.42" manufacturer="Hon Hai Precision Ind. Co.,Ltd." mac="FC:01:7C:B2:C5:D7" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.12" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.10" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.30" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.77" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.66" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.23" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.58" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.47" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.63" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.33" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="ti01mtz.santamerica.local" ip="192.168.171.83" manufacturer="Hon Hai Precision Ind. Co.,Ltd." mac="84:4B:F5:C1:DC:24" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.44" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.14" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.60" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.56" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.76" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.3" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.65" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.5" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="m00376" ip="192.168.171.41" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="50:E5:49:4E:9B:78" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="m0004445.santamerica.local" ip="192.168.171.78" manufacturer="Hon Hai Precision Ind. Co.,Ltd." mac="FC:01:7C:B2:C6:75" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.37" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="M00077.santamerica.local" ip="192.168.171.81" manufacturer="Hon Hai Precision Ind. Co.,Ltd." mac="FC:01:7C:B2:C5:57" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.48" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.7" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.20" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.85" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.31" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.62" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.32" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.2" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.40" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="m00360.santamerica.local" ip="192.168.171.72" manufacturer="TP-Link Corporation Limited" mac="7C:C2:C6:25:2F:A7" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="NPI6A3C8D" ip="192.168.171.15" manufacturer="Hewlett Packard" mac="6C:C2:17:23:7A:44" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.25" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="DESKTOP-B7O1K5C" ip="192.168.171.64" manufacturer="SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD." mac="38:6B:1C:DC:8C:8E" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.13" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.95" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.34" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.93" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.92" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.73" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="ti02mtz.santamerica.local" ip="192.168.171.84" manufacturer="SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD." mac="38:6B:1C:DC:6E:26" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.21" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="M00263" ip="192.168.171.61" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="B4:2E:99:F3:0E:68" comments="Financeiro - Luciana" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC18" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.96" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.54" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.38" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="M00266" ip="192.168.171.89" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="B4:2E:99:F3:0D:B9" comments="Estoque" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC65" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.26" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.22" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.50" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.79" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.52" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.29" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.39" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="m00459.santamerica.local" ip="192.168.171.74" manufacturer="Hon Hai Precision Ind. Co.,Ltd." mac="FC:01:7C:B2:C6:7B" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.94" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.59" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.57" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.17" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.46" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.8" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.11" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.43" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.19" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M000408" ip="192.168.171.99" manufacturer="ASUSTek COMPUTER INC." mac="C8:60:00:E0:F4:71" comments="Processos e Projetos - Adilson" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC05" expanded="0">
+	</row>
+	<row status="alive" name="M000295" ip="192.168.171.100" manufacturer="Intel Corporate" mac="00:D7:6D:1C:F0:DE" comments="Financeiro - Ana Maria" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC15" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.104" ip="192.168.171.104" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M00481" ip="192.168.171.138" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="1C:1B:0D:54:E9:27" comments="Diretoria - Alexandre" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC29" expanded="0">
+	</row>
+	<row status="alive" name="NPI236A91" os_version="Unix" ip="192.168.171.123" manufacturer="Hewlett Packard" mac="6C:C2:17:23:6A:91" comments="Adm Vendas - Impressora" has_http="1" is_http8080="0" http_title="HP LaserJet 400 MFP M425dn 192.168.171.123 (gSOAP 2.7)" http_title_full="HP LaserJet 400 MFP M425dn 192.168.171.123 (gSOAP 2.7)" has_https="0" has_ftp="1" ftp_version="oftpd" has_rdp="0" sIsDNSScan="0" alias="IMP06" expanded="0">
+	</row>
+	<row status="alive" name="rolls-royce" os_version="Windows" ip="192.168.171.167" manufacturer="Dell Inc." mac="80:18:44:F1:D2:83" comments="Rolls-Royce" has_http="1" is_http8080="0" http_title="Microsoft HTTPAPI httpd 2.0" http_title_full="Microsoft HTTPAPI httpd 2.0 SSDP/UPnP" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="DTI03" expanded="0">
+	</row>
+	<row status="alive" name="M000275" ip="192.168.171.166" manufacturer="Dell Inc." mac="20:04:0F:FF:72:7E" comments="Contrato - Viviane" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC21" expanded="0">
+	</row>
+	<row status="alive" name="DESKTOP-IOLDRO0" ip="192.168.171.119" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="B4:2E:99:F3:0D:B7" comments="TI - Vinicius" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC03" expanded="0">
+	</row>
+	<row status="alive" name="M-0312" ip="192.168.171.145" manufacturer="PEGATRON CORPORATION" mac="70:71:BC:65:36:0B" comments="Adm Vendas - Samara" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC28" expanded="0">
+	</row>
+	<row status="alive" name="M0TA" ip="192.168.171.155" manufacturer="EliteGroup Computer Systems Co., LTD" mac="1C:69:7A:1C:8B:34" comments="Cobrança - Tatiane" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC10" expanded="0">
+	</row>
+	<row status="alive" name="M1056" ip="192.168.171.160" manufacturer="ASUSTek COMPUTER INC." mac="FC:34:97:14:65:BE" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+		<share name="Users"/>
+		<printer name="EPSON L6170 Series"/>
+	</row>
+	<row status="alive" name="M000086" ip="192.168.171.147" manufacturer="TP-Link Corporation Limited" mac="7C:C2:C6:25:2D:F9" comments="Secretaria - Daniela" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC31" expanded="0">
+		<share name="Users"/>
+	</row>
+	<row status="alive" name="HP9EB8B5" device_type="Printer" ip="192.168.171.137" manufacturer="Hewlett Packard" mac="94:57:A5:9E:B8:B8" comments="Secretaria - Impressora" has_http="1" is_http8080="0" http_title="HP Officejet Pro 8620 printer http config" http_title_full="HP Officejet Pro 8620 printer http config Serial CN58OFK189" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="IMP08" expanded="0">
+	</row>
+	<row status="alive" name="DESKTOP-B7O1K5C" ip="192.168.171.151" manufacturer="Intelbras" mac="80:8F:E8:7E:F0:1D" comments="Financeiro - Luiz" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC16" expanded="0">
+		<printer name="HP LaserJet 400 MFP M425 PCL6 Class Driver"/>
+	</row>
+	<row status="alive" name="M097.santamerica.local" ip="192.168.171.144" manufacturer="Dell Inc." mac="20:04:0F:FF:76:48" comments="TI - Gabriel" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC02" expanded="0">
+	</row>
+	<row status="alive" name="M103" ip="192.168.171.172" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="B4:2E:99:F3:0E:6E" comments="Comercial Locação - Sergio" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC42" expanded="0">
+	</row>
+	<row status="alive" name="M00272" ip="192.168.171.177" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="B4:2E:99:F3:0E:72" comments="Comercial Locação - Gabriel E" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC54" expanded="0">
+	</row>
+	<row status="alive" name="EPSON_CQ" device_type="Print server" ip="192.168.171.149" manufacturer="TRENDnet, Inc." mac="00:14:D1:72:36:A8" has_http="1" is_http8080="0" http_title="TRENDNET | TE100-P1P (D-Link print server http config 1.0)" http_title_full="TRENDNET | TE100-P1P (D-Link print server http config 1.0)" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="sec01fn.santamerica.local" ip="192.168.171.1" manufacturer="Intel Corporate" mac="00:15:17:A7:D3:10" comments="Servidor-Firewall" has_http="1" is_http8080="0" http_title="pfSense - Login (nginx)" http_title_full="pfSense - Login (nginx)" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="DTI01" expanded="0">
+	</row>
+	<row status="alive" name="M096" ip="192.168.171.116" manufacturer="SMART Modular Technologies" mac="00:05:16:68:85:C9" comments="Financeiro - Lissiane" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC13" expanded="0">
+		<printer name="EPSON2825D9 (L6170 Series)"/>
+		<printer name="HP LaserJet 400 MFP M425 PCL6 Class Driver"/>
+		<printer name="NPIE808C8 (HP LaserJet 400 MFP M425dn)"/>
+	</row>
+	<row status="alive" name="M-0300" ip="192.168.171.176" manufacturer="Intel Corporate" mac="00:D7:6D:5D:08:BD" comments="Reparos - Sergio" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC34" expanded="0">
+	</row>
+	<row status="alive" name="M00086" ip="192.168.171.125" manufacturer="Hon Hai Precision Ind. Co.,Ltd." mac="84:4B:F5:C1:DE:24" comments="Financeiro - Anderson" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC12" expanded="0">
+		<printer name="HP LaserJet 400 MFP M425 PCL6 Class Driver"/>
+		<printer name="HP LaserJet 400 MFP M425 PCL6 Class Driver (Copiar 1)"/>
+	</row>
+	<row status="alive" name="LAPTOP-2SN8B4F0" ip="192.168.171.108" manufacturer="Intel Corporate" mac="18:1D:EA:F7:61:D3" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+		<share name="Users"/>
+	</row>
+	<row status="alive" name="M00279" ip="192.168.171.106" manufacturer="TP-LINK TECHNOLOGIES CO.,LTD." mac="50:3E:AA:51:AC:6F" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.53" ip="192.168.171.53" manufacturer="EliteGroup Computer Systems Co., LTD" mac="1C:69:7A:81:3D:FE" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="m00026.santamerica.local" device_type="Webcam" ip="192.168.171.36" manufacturer="Intelbras" mac="00:1A:3F:6C:9F:92" comments="Dvr-02" has_http="1" is_http8080="0" http_title="Intelbras (Dahua webcam httpd)" http_title_full="Intelbras (Dahua webcam httpd)" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="DTI10" expanded="0">
+	</row>
+	<row status="alive" name="DESKTOP-O478RV8.santamerica.local" ip="192.168.171.69" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="B4:2E:99:F3:0E:8B" comments="Comercial Vendas - Jason" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC63" expanded="0">
+	</row>
+	<row status="alive" name="m00434.santamerica.local" ip="192.168.171.86" manufacturer="ASUSTek COMPUTER INC." mac="FC:34:97:14:62:F6" comments="Comercial Vendas - Junior" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC57" expanded="0">
+	</row>
+	<row status="alive" name="m00025.santamerica.local" ip="192.168.171.35" manufacturer="Intelbras" mac="44:3B:32:5A:F9:92" comments="Dvr-01" has_http="1" is_http8080="0" http_title="Intelbras" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="DTI09" expanded="0">
+	</row>
+	<row status="alive" name="m00029.santamerica.local" ip="192.168.171.70" manufacturer="TP-LINK TECHNOLOGIES CO.,LTD." mac="D0:37:45:D6:4F:4C" comments="Comercial Locação - Daniel" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC39" expanded="0">
+	</row>
+	<row status="alive" name="DESKTOP-0BHQO5M.santamerica.local" ip="192.168.171.87" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="B4:2E:99:F3:0E:67" comments="Comercial Vendas - Carlos" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC60" expanded="0">
+	</row>
+	<row status="alive" name="sec01fn.santamerica.local" ip="192.168.171.68" manufacturer="Intel Corporate" mac="00:D7:6D:1C:F3:E0" comments="Comercial Locação - Amanda Soares" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC56" expanded="0">
+	</row>
+	<row status="alive" name="M-067" ip="192.168.171.152" manufacturer="Hon Hai Precision Ind. Co.,Ltd." mac="84:4B:F5:C1:DE:0A" comments="Financeiro - Alex" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC17" expanded="0">
+		<printer name="HP Financeiro"/>
+	</row>
+	<row status="alive" name="DESKTOP-CM4IM1Q" ip="192.168.171.141" manufacturer="Hon Hai Precision Ind. Co.,Ltd." mac="84:4B:F5:C1:DD:24" comments="Financeiro - Renato" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC19" expanded="0">
+	</row>
+	<row status="alive" name="HP432FB3" device_type="Printer" ip="192.168.171.183" manufacturer="Hewlett Packard" mac="98:E7:F4:43:2F:B4" comments="Contrato - Impressora Colorida" has_http="1" is_http8080="0" http_title="HP OfficeJet Pro 8210 printer http config" http_title_full="HP OfficeJet Pro 8210 printer http config Serial CN69IDT0Q7" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="IMP04" expanded="0">
+	</row>
+	<row status="dead" name="M00088" ip="192.168.171.101" manufacturer="SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD." mac="38:6B:1C:DC:70:F1" comments="Secretaria - Larissa" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC33" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.98" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="M-097" ip="192.168.171.97" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="B4:2E:99:F3:0E:7E" comments="Estoque" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC64" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.114" ip="192.168.171.114" mac="46:CB:43:3B:6B:E7" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="DESKTOP-NUOOEAC" ip="192.168.171.163" manufacturer="Samsung Electronics Co.,Ltd" mac="38:9A:F6:99:D0:2D" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="M047" ip="192.168.171.111" manufacturer="Arcadyan Corporation" mac="78:DD:12:40:3E:06" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.156" ip="192.168.171.156" mac="DA:89:23:BD:EF:71" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="M0Mic" ip="192.168.171.115" mac="9E:44:72:E0:95:F1" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="DESKTOP-B7O1K5C" ip="192.168.171.143" manufacturer="Micro-Star INTL CO., LTD." mac="30:9C:23:D0:2B:CD" comments="Comercial Locação - Lucas" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC41" expanded="0">
+	</row>
+	<row status="dead" name="m00032.santamerica.local" ip="192.168.171.148" mac="56:05:F4:E5:FE:80" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="M00078.santamerica.local" ip="192.168.171.132" mac="9A:A2:62:5E:B9:FB" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.134" ip="192.168.171.134" mac="BE:4B:84:4C:C3:82" comments="Comercial Locação - Carmen" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC52" expanded="0">
+	</row>
+	<row status="dead" name="loc04mtz.santamerica.local" ip="192.168.171.124" mac="66:03:6F:41:9E:C9" comments="Recepção" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC38" expanded="0">
+	</row>
+	<row status="dead" name="ti02mtz.santamerica.local" ip="192.168.171.164" manufacturer="Xiaomi Communications Co Ltd" mac="A4:50:46:4C:E9:BF" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="M-0300" ip="192.168.171.159" mac="CA:37:AB:AA:83:41" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.126" ip="192.168.171.126" mac="06:74:4D:C4:0C:53" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.169" ip="192.168.171.169" mac="96:82:79:E8:4B:5F" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.130" ip="192.168.171.130" mac="D6:1D:8D:40:EF:4D" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.158" ip="192.168.171.158" mac="8A:B6:DA:C6:05:92" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="M00279" ip="192.168.171.131" manufacturer="Hon Hai Precision Ind. Co.,Ltd." mac="FC:01:7C:B2:C6:7D" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.174" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.139" ip="192.168.171.139" mac="7A:A8:BA:88:C4:2B" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="adm01mtz.santamerica.local" ip="192.168.171.120" mac="9A:39:94:69:A9:9F" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="gfn.santamerica.local" ip="192.168.171.171" manufacturer="Xiaomi Communications Co Ltd" mac="2C:D0:66:39:90:F0" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="M00051.santamerica.local" ip="192.168.171.154" mac="E6:16:A3:F2:45:C3" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="loc02mtz.santamerica.local" ip="192.168.171.122" mac="0A:C8:62:FB:1E:8A" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.180" ip="192.168.171.180" mac="BE:AF:FF:81:8F:65" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="fn10.santamerica.local" ip="192.168.171.179" manufacturer="Samsung Electronics Co.,Ltd" mac="48:49:C7:38:9A:34" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M044" ip="192.168.171.197" manufacturer="Dell Inc." mac="20:04:0F:FF:76:1B" comments="Contrato - Guilherme" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC23" expanded="0">
+		<share name="Nova pasta"/>
+		<share name="Users"/>
+	</row>
+	<row status="alive" name="M0Mic" ip="192.168.171.196" manufacturer="Hon Hai Precision Ind. Co.,Ltd." mac="84:4B:F5:C1:DE:03" comments="Secretaria - Michele" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC32" expanded="0">
+	</row>
+	<row status="alive" name="M0VG" ip="192.168.171.211" manufacturer="TP-LINK TECHNOLOGIES CO.,LTD." mac="F8:1A:67:D1:57:B2" comments="Financeiro - Vitoria Geovana" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC14" expanded="0">
+	</row>
+	<row status="alive" name="m00035.santamerica.local" device_type="Switch" ip="192.168.171.105" manufacturer="Cisco Systems, Inc" mac="64:D9:89:C8:24:D4" has_http="1" is_http8080="0" http_title="GoAhead WebServer" http_title_full="GoAhead WebServer LinkSys SLM2024 or SRW2008 - SRW2016 switch http config" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M00088" ip="192.168.171.218" manufacturer="TP-LINK TECHNOLOGIES CO.,LTD." mac="D0:37:45:D5:56:88" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="loc07mtz.santamerica.local" ip="192.168.171.127" manufacturer="Microsoft Corporation" mac="00:15:5D:01:7F:16" has_http="1" is_http8080="0" http_title="JK TELECOM PBX IP - Pagina de Login (Apache httpd 2.4.6)" http_title_full="JK TELECOM PBX IP - Pagina de Login (Apache httpd 2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16)" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M000257" ip="192.168.171.153" manufacturer="Dell Inc." mac="20:04:0F:FF:76:4A" comments="Comercial Locação - Eloisa" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC43" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.117" ip="192.168.171.117" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="B4:2E:99:F3:0C:A9" comments="Comercial Locação - Eduardo" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC44" expanded="0">
+	</row>
+	<row status="alive" name="M00256" ip="192.168.171.178" manufacturer="Dell Inc." mac="20:04:0F:FF:76:1D" comments="Comercial Vendas - Anderson" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC62" expanded="0">
+	</row>
+	<row status="alive" name="fn05.santamerica.local" ip="192.168.171.175" manufacturer="Intelbras" mac="48:51:CF:54:23:76" comments="Wifi-Secretaria" has_http="1" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="DTI07" expanded="0">
+	</row>
+	<row status="alive" name="M00279" ip="192.168.171.107" manufacturer="Dell Inc." mac="90:B1:1C:F5:2E:A4" comments="Comercial Locação - Claudia" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC53" expanded="0">
+	</row>
+	<row status="alive" name="loc05mtz.santamerica.local" ip="192.168.171.140" manufacturer="Dell Inc." mac="E4:F0:04:83:E0:5D" has_http="1" is_http8080="0" http_title="Log In (GoAhead WebServer)" http_title_full="Log In (GoAhead WebServer)" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M000275" ip="192.168.171.165" mac="F6:51:85:07:8B:E2" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.129" ip="192.168.171.129" manufacturer="Samsung Electronics Co.,Ltd" mac="A8:16:D0:3E:EA:41" comments="Contrato - Impressora Colorida" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M00088" ip="192.168.171.170" manufacturer="Dell Inc." mac="20:04:0F:FF:76:80" comments="Comercial Locação - Victor B" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC49" expanded="0">
+	</row>
+	<row status="alive" name="DESKTOP-3F96R5M" ip="192.168.171.118" manufacturer="Dell Inc." mac="20:04:0F:FF:76:28" comments="Comercial Locação - Luciana" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC51" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.161" ip="192.168.171.161" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="50:E5:49:FC:A6:20" comments="Rescisão - Lohana" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC09" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.109" ip="192.168.171.109" mac="CA:71:33:63:91:5D" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.150" ip="192.168.171.150" mac="3E:55:EC:C5:07:53" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M017881.santamerica.local" ip="192.168.171.133" manufacturer="Intel Corporate" mac="5C:CD:5B:FC:CD:62" comments="Comercial Vendas - Ilda" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC61" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.168" ip="192.168.171.168" mac="CA:91:2C:E1:79:05" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="EPSONDEFED8" ip="192.168.171.113" mac="8E:93:16:B0:E3:A6" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.142" ip="192.168.171.142" mac="EE:B2:6F:F0:B8:7D" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M00077" ip="192.168.171.225" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="94:DE:80:C1:69:DA" comments="Rescisao - Victor" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC07" expanded="0">
+	</row>
+	<row status="alive" name="M047" ip="192.168.171.110" mac="22:C3:D2:90:DB:D1" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.112" ip="192.168.171.112" mac="4A:D3:C0:AD:38:7F" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M1056" ip="192.168.171.103" mac="96:9B:42:DE:6D:BC" comments="Marketing - Lissa" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC25" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.102" ip="192.168.171.102" mac="4A:D6:C3:5F:3C:EC" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="loc01mtz.santamerica.local" ip="192.168.171.121" mac="FA:07:A8:72:28:84" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.157" ip="192.168.171.157" mac="36:3E:2F:EB:4F:FC" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.146" ip="192.168.171.146" mac="8A:53:87:BD:F1:82" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.128" ip="192.168.171.128" mac="EA:72:72:9B:59:09" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.135" ip="192.168.171.135" manufacturer="ASUSTek COMPUTER INC." mac="0C:9D:92:21:21:08" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="fn04.santamerica.local" ip="192.168.171.173" mac="5A:92:3D:89:84:59" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M103" ip="192.168.171.162" mac="6E:16:70:1E:B6:BD" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.136" ip="192.168.171.136" manufacturer="Samsung Electronics Co.,Ltd" mac="8C:E5:C0:D5:2B:08" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M00277" ip="192.168.171.227" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="B4:2E:99:F3:0E:69" comments="Rescisão - Matheus" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC08" expanded="0">
+	</row>
+	<row status="alive" name="M00376" ip="192.168.171.228" manufacturer="Dell Inc." mac="20:04:0F:FF:76:45" comments="Comercial Locação - Melanda" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC50" expanded="0">
+	</row>
+	<row status="alive" name="DESKTOP-Q3ITLM6" ip="192.168.171.224" manufacturer="Intel Corporate" mac="00:D7:6D:07:0F:AD" comments="Reparos - Rodrigo" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC35" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.185" ip="192.168.171.185" mac="0E:AD:06:6F:5A:13" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M0L" ip="192.168.171.226" manufacturer="Intel Corporate" mac="00:D7:6D:5D:08:CC" comments="Financeiro - Lilian" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC11" expanded="0">
+	</row>
+	<row status="alive" name="m00278" ip="192.168.171.230" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="B4:2E:99:F3:0B:43" comments="Contrato - Victor" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC22" expanded="0">
+		<share name="Scanner"/>
+		<share name="Users"/>
+	</row>
+	<row status="alive" name="192.168.171.182" ip="192.168.171.182" mac="06:AA:DB:F6:38:13" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.181" ip="192.168.171.181" mac="3A:15:3B:49:20:57" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="M00438.santamerica.local" ip="192.168.171.187" mac="4E:C1:58:BD:C4:5E" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="EPSONDEFED8" ip="192.168.171.204" manufacturer="Seiko Epson Corporation" mac="E0:BB:9E:DE:FE:D8" comments="Adm Vendas - Impressora Colorida" has_http="1" is_http8080="0" http_title="upnp" http_title_full="upnp" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="IMP07" expanded="0">
+	</row>
+	<row status="alive" name="M00440" ip="192.168.171.232" manufacturer="Dell Inc." mac="90:B1:1C:F5:2E:81" comments="Recepção " has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC37" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.192" ip="192.168.171.192" mac="BE:39:14:68:7B:66" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.213" ip="192.168.171.213" manufacturer="Samsung Electronics Co.,Ltd" mac="98:39:8E:C0:E8:71" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="M047" ip="192.168.171.199" manufacturer="Intel Corporate" mac="60:57:18:F2:4F:0E" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.191" ip="192.168.171.191" mac="5E:34:35:74:FE:EE" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.212" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="M047" ip="192.168.171.207" manufacturer="COMPAL INFORMATION (KUNSHAN) CO., LTD." mac="F8:A9:63:63:B1:F9" comments="Marketing - Luiz" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC26" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.208" ip="192.168.171.208" mac="C6:13:61:65:8D:30" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.206" ip="192.168.171.206" mac="92:76:B8:50:85:4F" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="M00438.santamerica.local" ip="192.168.171.200" manufacturer="Xiaomi Communications Co Ltd" mac="94:17:00:FD:B6:F6" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.216" ip="192.168.171.216" mac="DA:E4:3C:F8:A0:4B" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.221" ip="192.168.171.221" manufacturer="Xiaomi Communications Co Ltd" mac="1C:CC:D6:76:47:0D" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.220" ip="192.168.171.220" mac="1A:1D:A6:A4:58:17" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.188" ip="192.168.171.188" mac="0A:C6:56:DE:0A:E6" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="rolls-royce" os_version="Windows" ip="192.168.171.237" manufacturer="Dell Inc." mac="80:18:44:F1:D2:80" comments="Rolls-Royce" has_http="1" is_http8080="0" http_title="Microsoft HTTPAPI httpd 2.0" http_title_full="Microsoft HTTPAPI httpd 2.0 SSDP/UPnP" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="DTI05" expanded="0">
+	</row>
+	<row status="alive" name="aston-martin" ip="192.168.171.238" manufacturer="Microsoft Corporation" mac="00:15:5D:01:7F:01" comments="Aston-Martin" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="DTI04" expanded="0">
+		<share name="NETLOGON"/>
+		<share name="sistemas"/>
+		<share name="SYSVOL"/>
+		<share name="Wallpapers"/>
+	</row>
+	<row status="alive" name="192.168.171.186" ip="192.168.171.186" mac="46:2D:74:20:32:CC" comments="Contrato - Aprendiz" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC24" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.184" ip="192.168.171.184" mac="52:7F:28:69:E6:86" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.189" ip="192.168.171.189" mac="4E:C0:A9:11:57:D9" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="mclaren" ip="192.168.171.239" manufacturer="Microsoft Corporation" mac="00:15:5D:01:7F:02" comments="MC-Laren" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="DTI02" expanded="0">
+		<share name="Adm-Locacao"/>
+		<share name="Consultores Comerciais"/>
+		<share name="DIG"/>
+		<share name="Gabriel Ferreira Montilla Maciel"/>
+		<share name="Jason"/>
+		<share name="João Pedro Vieira Godoy"/>
+		<share name="PROCESSOS_PROJETOS"/>
+		<share name="Samara"/>
+		<share name="TI"/>
+		<share name="Transferencia"/>
+		<share name="Users"/>
+	</row>
+	<row status="alive" name="Telefonia" ip="192.168.171.244" manufacturer="Micro-Star INT&apos;L CO., LTD" mac="6C:62:6D:F9:9F:8F" comments="Telefonia" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC01" expanded="0">
+	</row>
+	<row status="alive" name="M097.santamerica.local" ip="192.168.171.194" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="90:2B:34:F6:B2:66" comments="Rescisão - Gabriel" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC06" expanded="0">
+	</row>
+	<row status="alive" name="sec.santamerica.local" ip="192.168.171.205" manufacturer="EliteGroup Computer Systems Co., LTD" mac="1C:69:7A:4B:F6:FF" comments="Comercial Vendas - Rafael Hei" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC59" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.198" ip="192.168.171.198" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="B4:2E:99:F2:12:9A" comments="Comercial Locação - Rafael Hofman" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC46" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.193" ip="192.168.171.193" mac="32:73:6E:15:B7:C1" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.201" ip="192.168.171.201" mac="C2:18:2D:AF:86:FD" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.210" ip="192.168.171.210" manufacturer="Samsung Electronics Co.,Ltd" mac="50:92:B9:42:69:1C" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="DESKTOP-L7P72G7" ip="192.168.171.202" manufacturer="Hon Hai Precision Ind. Co.,Ltd." mac="84:4B:F5:C1:DE:00" comments="Comercial Locação - Jessica" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC48" expanded="0">
+	</row>
+	<row status="alive" name="adm09mtz.santamerica.local" ip="192.168.171.203" mac="0A:D4:25:AD:9F:C3" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.209" ip="192.168.171.209" mac="BA:71:CF:D5:91:33" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M-SEC" ip="192.168.171.246" manufacturer="EliteGroup Computer Systems Co., LTD" mac="1C:69:7A:4B:F6:66" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M00277" ip="192.168.171.190" mac="EE:B9:D3:C5:00:9E" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M00010010.santamerica.local" ip="192.168.171.195" manufacturer="Xiaomi Communications Co Ltd" mac="A4:45:19:93:DF:DF" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.215" ip="192.168.171.215" mac="5E:61:B1:FE:40:41" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.214" ip="192.168.171.214" manufacturer="Xiaomi Communications Co Ltd" mac="48:2C:A0:FD:36:62" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M-0311" ip="192.168.171.217" manufacturer="Intel Corporate" mac="00:D7:6D:5D:08:B3" comments="Comercial Locação - Amanda S" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC55" expanded="0">
+	</row>
+	<row status="alive" name="DESKTOP-3F96R5M" ip="192.168.171.222" mac="DE:46:4A:6F:55:1F" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="cx02mtz.santamerica.local" ip="192.168.171.223" manufacturer="Ubiquiti Networks Inc." mac="F0:9F:C2:F6:1C:85" comments="Wifi" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="DTI06" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.219" ip="192.168.171.219" mac="72:F6:70:62:1F:A2" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="192.168.171.236" ip="192.168.171.236" manufacturer="Murata Manufacturing Co., Ltd." mac="CC:C0:79:4C:C2:6E" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.231" ip="192.168.171.231" mac="6E:D4:5E:68:9F:F4" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="M00451" ip="192.168.171.229" mac="32:36:68:43:B3:B3" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.233" ip="192.168.171.233" manufacturer="Khomp" mac="F8:03:32:01:68:E8" comments="Chipeira" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="DTI08" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.245" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="dead" name="m00069.santamerica.local" ip="192.168.171.248" manufacturer="Xiaomi Communications Co Ltd" mac="FC:19:99:B4:9E:1B" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.251" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="DESKTOP-HLHEH43" ip="192.168.171.234" manufacturer="GIGA-BYTE TECHNOLOGY CO.,LTD." mac="B4:2E:99:F3:0E:84" comments="Rh - Carla" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC20" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.252" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.253" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.235" ip="192.168.171.235" manufacturer="Control iD" mac="FC:52:CE:20:59:06" comments="Relogio Ponto" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="DTI11" expanded="0">
+	</row>
+	<row status="unknown" ip="192.168.171.254" mac="00:00:00:00:00:00" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.240" ip="192.168.171.240" manufacturer="Dell Inc." mac="90:B1:1C:F5:2E:BC" comments="Comercial Locação - Vitoria P" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC45" expanded="0">
+	</row>
+	<row status="alive" name="M000257" ip="192.168.171.241" manufacturer="EliteGroup Computer Systems Co., LTD" mac="1C:69:7A:4B:F6:C1" comments="Comercial Locação - Amyra" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" alias="MC47" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.242" ip="192.168.171.242" mac="6A:B5:22:2F:86:EE" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.243" ip="192.168.171.243" manufacturer="PEGATRON CORPORATION" mac="70:54:D2:8F:85:3D" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.250" os_version="Unix" ip="192.168.171.250" manufacturer="Microsoft Corporation" mac="00:15:5D:01:7F:15" has_http="1" is_http8080="0" http_title="Apache2 Debian Default Page: It works (Apache httpd 2.4.53)" http_title_full="Apache2 Debian Default Page: It works (Apache httpd 2.4.53)" has_https="0" has_ftp="1" ftp_version="vsftpd Misconfigured" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="m00406.santamerica.local" ip="192.168.171.247" mac="56:F1:7A:7D:9D:65" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+	<row status="alive" name="192.168.171.249" ip="192.168.171.249" mac="86:3E:2D:76:50:F4" has_http="0" is_http8080="0" has_https="0" has_ftp="0" has_rdp="0" sIsDNSScan="0" expanded="0">
+	</row>
+</Advanced_IP_scanner>
